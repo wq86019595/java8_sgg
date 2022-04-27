@@ -1,4 +1,4 @@
-package java.sgg.java8;
+package halo.sgg.test_java8;
 
 public class FilterEmployeeForSalary implements MyPredicate<Employee> {
 

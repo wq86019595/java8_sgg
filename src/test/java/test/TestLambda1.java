@@ -1,9 +1,6 @@
 package test;
 
-import java.sgg.java8.Employee;
-import java.sgg.java8.FilterEmployeeForAge;
-import java.sgg.java8.FilterEmployeeForSalary;
-import java.sgg.java8.MyPredicate;
+import halo.sgg.test_java8.*;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Comparator;
